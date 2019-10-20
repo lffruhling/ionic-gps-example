@@ -1,5 +1,7 @@
 {
   "name": "gps-teste",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
